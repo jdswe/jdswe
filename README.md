@@ -36,13 +36,21 @@ I build software and interactive experiences with Unity, C# and web technologies
 
 </div>
 
-## Projects
+## Featured Project
+
+<div align="center">
+
+<a href="https://jdswe.github.io/focus-sounds/">
+  <img src="https://raw.githubusercontent.com/jdswe/jdswe.github.io/main/assets/images/projects/focus-sounds.svg" width="680" alt="Focus Sounds project preview">
+</a>
 
 ### Focus Sounds
 
 Web application for ambient sounds and focused work.
 
-[Live demo](https://jdswe.github.io/focus-sounds/)
+<a href="https://jdswe.github.io/focus-sounds/">Open live demo</a>
+
+</div>
 
 ## Focus
 
@@ -63,7 +71,9 @@ Web application for ambient sounds and focused work.
 
 <br>
 
-<img src="https://raw.githubusercontent.com/jdswe/jdswe/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+<a href="https://github.com/jdswe/jdswe/actions/workflows/snake.yml">
+  <img src="https://raw.githubusercontent.com/jdswe/jdswe/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+</a>
 
 </div>
 
