@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jdswe/jdswe.github.io/main/assets/branding/jd-mark.svg" width="80" alt="JD logo">
+<a href="https://jdswe.github.io/">
+  <img src="https://raw.githubusercontent.com/jdswe/jdswe.github.io/main/assets/branding/jd-mark.svg" width="80" alt="JD logo">
+</a>
 
 # Hi, I'm JD
 
