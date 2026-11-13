@@ -27,3 +27,8 @@ Software engineering student at Jala University, learning full stack development
 **Learning**
 
 <img src="https://skillicons.dev/icons?i=java,js" height="40" alt="Java, JavaScript">
+
+## 🌎 Languages
+
+- Spanish: native
+- English: B1
