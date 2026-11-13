@@ -1,27 +1,11 @@
 <div align="center">
 
-<a href="https://jdswe.github.io/">
-  <img src="https://raw.githubusercontent.com/jdswe/jdswe.github.io/main/assets/branding/jd-mark.svg" width="80" alt="JD logo">
-</a>
-
-# Hi, I'm JD
-
-### Software Engineer · Unity Game Developer
-
-I build software and interactive experiences with Unity, C# and web technologies.
+<img src="assets/banner.svg" alt="Jose David Carranza, software engineering student learning full stack" width="800">
 
 <br>
 
-<a href="https://jdswe.github.io/">
-  <img src="https://img.icons8.com/ios-filled/50/695B94/briefcase.png" width="32" alt="Portfolio">
-</a>
-&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jose-david-carranza-angarita-unity-developer/">
   <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="32" alt="LinkedIn">
-</a>
-&nbsp;&nbsp;
-<a href="https://josedavdmast3r.itch.io/">
-  <img src="https://cdn.simpleicons.org/itchdotio/FA5C5C" width="32" alt="itch.io">
 </a>
 &nbsp;&nbsp;
 <a href="https://www.youtube.com/@CodingGamesJose">
@@ -30,57 +14,16 @@ I build software and interactive experiences with Unity, C# and web technologies
 
 </div>
 
-## Technologies
+## 👋 About
 
-<div align="center">
+Software engineering student at Jala University, learning full stack development step by step.
 
-<img src="https://skillicons.dev/icons?i=cs,unity,js,html,css,git,github,python,java,windows,ubuntu" height="42">
+## 🛠️ Tech
 
-</div>
+**Using**
 
-## Featured Project
+<img src="https://skillicons.dev/icons?i=ubuntu,windows,git,github,gitlab,html,css" height="40" alt="Ubuntu, Windows, Git, GitHub, GitLab, HTML, CSS">
 
-<div align="center">
+**Learning**
 
-<a href="https://jdswe.github.io/focus-sounds/">
-  <img src="https://raw.githubusercontent.com/jdswe/jdswe.github.io/main/assets/images/projects/focus-sounds.svg" width="680" alt="Focus Sounds project preview">
-</a>
-
-### Focus Sounds
-
-Web application for ambient sounds and focused work.
-
-<a href="https://jdswe.github.io/focus-sounds/">Open live demo</a>
-
-</div>
-
-## Focus
-
-- Software engineering
-- Unity and C#
-- Game development
-- Web applications
-- Interactive experiences
-
-## GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/jdswe">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jdswe&custom_title=JD%20GitHub%20Stats&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="JD GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdswe&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
-</a>
-
-<br>
-
-<a href="https://github.com/jdswe/jdswe/actions/workflows/snake.yml">
-  <img src="https://raw.githubusercontent.com/jdswe/jdswe/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
-</a>
-
-</div>
-
-<div align="center">
-
-### JD · Building ideas into reality
-
-</div>
+<img src="https://skillicons.dev/icons?i=java,js" height="40" alt="Java, JavaScript">
